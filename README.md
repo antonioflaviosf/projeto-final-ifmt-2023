@@ -1,19 +1,3 @@
-# Projeto final
-
-Em grupos de **até seis pessoas**, escolham uma biblioteca ou framework para elaboração do projeto.
-
-## 1. Requisitos
-- Seu projeto deverá ser entregue no formato de link de repositório público do GitHub, a ser enviado para o email `ah.driano@gmail.com` com o título `Projeto Final - IFMT 2023` até o dia 11/11/2023. Este repositório deve conter o código da solução e um arquivo `README.md` conforme o exemplo em anexo.
-- O trabalho também deverá ser apresentado no formato de seminário no dia 11/11/2023. Esta apresentação deverá ter entre 15 e 30 minutos.
-- A biblioteca ou framework utilizados poderão ser relacionados à qualquer tecnologia, à escolha do grupo.
-
-Referências úteis para escrita de documentos Markdown:
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-- [GitHub Docs - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Mermaid](https://mermaid.js.org/intro/)
-
----
-
 # Projeto Final - Desenvolvimento de Software Através de Frameworks @ IFMT/2023
 
 - **Biblioteca/Framework:** [Django](https://www.djangoproject.com/)
@@ -35,7 +19,6 @@ A função principal do Django é proporcionar uma estrutura robusta e eficiente
 
 Ele resolve uma variedade de problemas comuns, oferecendo abstrações de banco de dados, segurança integrada, administração automática de conteúdo, escalabilidade e extensibilidade, manipulação de formulários, roteamento simples, templates para separação de lógica de apresentação e mais. Seu objetivo é fornecer uma estrutura sólida que acelere o desenvolvimento, seguindo padrões de projeto robustos e promovendo boas práticas de programação.
 
-> Descreva a biblioteca ou framework escolhido. Sua função principal, quais tipos de problemas ela resolve
 
 ## 2. Descrição do problema
 
@@ -74,7 +57,6 @@ sequenceDiagram
 
 Este é um diagrama básico que representa a interação entre a equipe de desenvolvimento, a aplicação Django e o banco de dados. Copie e cole este código no seu arquivo Markdown no GitHub para visualizar o diagrama.
 
-*Elabore uma situação hipotética que pode ser resolvida com a aplicação desta biblioteca/framework. Fique à vontade para utilizar recursos como diagramas, fotos, vídeos, etc.*
 
 ## 3. Solução
 
@@ -151,7 +133,6 @@ Tem que haver alguns passos para a Solução do Problema:
    - Para a implantação, considere o uso de serviços como Heroku, AWS, ou outros de sua escolha.
    - Configure as variáveis de ambiente, ajuste as configurações do banco de dados, e realize as migrações no ambiente de produção.
 
-> De forma objetiva, descreva os passos utilizados para a solução do problema elaborado. Se necessário, utilize partes de código, links, ou quaisquer outros recursos que julgarem necessários.
 
 ## 4. Referências
 
